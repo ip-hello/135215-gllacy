@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Игорь Попов](https://up.htmlacademy.ru/htmlcss/13/user/135215).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Меркулов](https://htmlacademy.ru/profile/straniks).
 
 ---
 
